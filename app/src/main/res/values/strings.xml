@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GitReference</string>
+    <string name="command">Command:</string>
+    <string name="explanation">Explanation:</string>
+    <string name="example">Example:</string>
+    <string name="section">Section:</string>
+    <string name="filter">Filter:</string>
+    <string-array name="filter_array">
+        <item>All</item>
+        <item>Create</item>
+        <item>Changes</item>
+        <item>Commit History</item>
+        <item>Branches &amp; Tags</item>
+    </string-array>
+</resources>
